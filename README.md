@@ -31,7 +31,11 @@ Crafting type-safe, scalable solutions in Scala and Python.
 
 ### 📈 Contribution Graph
 
-![Snake animation](https://github.com/jpmlima/jpmlima/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br>
 
@@ -41,7 +45,8 @@ Crafting type-safe, scalable solutions in Scala and Python.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpmlima&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <!-- Alternative streak stats URL format -->
+  <img src="https://streak-stats.demolab.com?user=jpmlima&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 <br>
