@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h1 align="center"> 👋 Hey, I'm Lima 👋 </h1><img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+<h1 align="center"> 👋 Hey, I'm Lima 👋 </h1>
 
  🔭 **Senior Software Developer | Eletronic and Telecomunication Engineering**</br>
  🌱 I’m currently learning some ethical hacking skills</br>
@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jpmlima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=00000000" height="170" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmlima&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="170" alt="languages" />
 </p>
-
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 <!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake-dark.svg">
