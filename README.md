@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" />
-<h1 align="center"> 👋 Hey, I'm Lima 👋 </h1>
+
+<h1 align="center"> 👋 Hey, I'm Lima 👋 </h1><img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
  🔭 **Senior Software Developer | Eletronic and Telecomunication Engineering**</br>
  🌱 I’m currently learning some ethical hacking skills</br>
