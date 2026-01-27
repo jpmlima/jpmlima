@@ -54,9 +54,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-<br>
-<br>
+<br />
+<br />
+
+<img src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+
+<br />
+<br />
 
 <!-- FOOTER / CONTACT -->
 <a href="mailto:contact@jpmlima.com">
