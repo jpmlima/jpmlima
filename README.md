@@ -2,7 +2,7 @@
 
 # Hi, I'm João.
 
-> **Functional Programming & Distributed Systems Engineer**
+ **Functional Programming & Distributed Systems Engineer**
 <br>
 Crafting type-safe, scalable solutions in Scala and Python.
 
