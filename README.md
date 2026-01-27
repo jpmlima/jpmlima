@@ -40,13 +40,16 @@ Crafting type-safe, scalable solutions in Scala and Python.
 <br>
 
 <div align="center">
-  <!-- Removed count_private=true to fix fetching error -->
   <img src="https://github-readme-stats.vercel.app/api?username=jpmlima&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmlima&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jpmlima&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jpmlima&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
 </div>
 
 <br>
