@@ -48,7 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jpmlima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=00000000" height="170" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmlima&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="170" alt="languages" />
 </p>
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 <!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake-dark.svg">
@@ -56,7 +55,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<br><br>
+<br><img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+<br>
 
 <!-- FOOTER / CONTACT -->
 <a href="mailto:contact@jpmlima.com">
