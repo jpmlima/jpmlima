@@ -3,12 +3,12 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" />
 <h1 align="center"> 👋 Hey, I'm João Lima 👋 </h1>
 
-- 🔭 **Senior Software Engineer | Eletronic and Telecomunication Engineering**
-- 🌱 I’m currently learning some ethical hacking skills
-- 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about coding and eletronic music
-- 📫 How to reach me: jpmalheirolima@gmail.com
-- ⚡ Fun fact: I'm a Techno lover
+ 🔭 **Senior Software Engineer | Eletronic and Telecomunication Engineering**</br>
+ 🌱 I’m currently learning some ethical hacking skills</br>
+ 👯 I’m looking to collaborate on interesting projects</br>
+ 💬 Ask me about coding and eletronic music</br>
+ 📫 How to reach me: jpmalheirolima@gmail.com</br>
+ ⚡ Fun fact: I'm a Techno lover</br>
 
 <br>
 <i>Building resilient infrastructure and type-safe applications.</i>
