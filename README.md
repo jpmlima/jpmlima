@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" />
 <h1>JOÃO LIMA</h1>
 
-> **Senior Software Engineer | Scala & Distributed Systems**
+ **Senior Software Engineer | Scala & Distributed Systems**
 <br>
 <i>Building resilient infrastructure and type-safe applications.</i>
 
