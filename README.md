@@ -1,58 +1,61 @@
 <div align="center">
 
-<h1 align="center"> 👋 Hey, I'm João Lima 👋 </h1>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" />
+<h1>JOÃO LIMA</h1>
 
- 🔭 Eletronic and Telecomunication Engineering
- 🌱 I’m currently learning some ethical hacking skills
- 👯 I’m looking to collaborate on interesting projects
- 💬 Ask me about coding and eletronic music
- 📫 How to reach me: jpmalheirolima@gmail.com
- ⚡ Fun fact: I'm a Techno lover
-
- **Functional Programming & Distributed Systems Engineer**
+> **Senior Software Engineer | Scala & Distributed Systems**
 <br>
-Crafting type-safe, scalable solutions in Scala and Python.
+<i>Building resilient infrastructure and type-safe applications.</i>
 
 <br>
 
-### 🛠️ Tech Stack
+<!-- TECH STACK GRID -->
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=scala" width="45" alt="Scala" /><br><b>Scala</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" /><br><b>Python</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" alt="Rust" /><br><b>Rust</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" alt="Solidity" /><br><b>Web3</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker" /><br><b>Docker</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="45" alt="AWS" /><br><b>Cloud</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux" /><br><b>Linux</b>
+    </td>
+  </tr>
+</table>
 
-**Languages**
 <br>
-![Scala](https://img.shields.io/badge/scala-%23E32F26.svg?style=flat&logo=scala&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-**Tools & Infrastructure**
-<br>
-![ZIO](https://img.shields.io/badge/zio-%23E32F26.svg?style=flat&logo=scala&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+<!-- METRICS DASHBOARD (Side by Side) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpmlima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=00000000" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmlima&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="170" alt="languages" />
+</p>
 
-<br>
-
-### 📈 Contribution Graph
-
+<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpmlima/jpmlima/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<br>
+<br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpmlima&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmlima&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
-</div>
-
-<br>
-
-### ⚡ Open for Bounties & Specialized Engineering Contributions
+<!-- FOOTER / CONTACT -->
+<a href="mailto:contact@jpmlima.com">
+  <img src="https://img.shields.io/badge/Collaborate-On_Projects-2e3440?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
