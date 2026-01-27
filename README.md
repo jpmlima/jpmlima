@@ -1,6 +1,13 @@
 <div align="center">
 
-# Hi, I'm João.
+<h1 align="center"> 👋 Hey, I'm João Lima 👋 </h1>
+
+- 🔭 Eletronic and Telecomunication Engineering
+- 🌱 I’m currently learning some ethical hacking skills
+- 👯 I’m looking to collaborate on interesting projects
+- 💬 Ask me about coding and eletronic music
+- 📫 How to reach me: jpmalheirolima@gmail.com
+- ⚡ Fun fact: I'm a Techno lover
 
  **Functional Programming & Distributed Systems Engineer**
 <br>
