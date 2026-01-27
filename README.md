@@ -7,7 +7,6 @@
  🌱 I’m currently learning some ethical hacking skills</br>
  👯 I’m looking to collaborate on interesting projects</br>
  💬 Ask me about coding and eletronic music</br>
- 📫 How to reach me: jpmalheirolima@gmail.com</br>
  ⚡ Fun fact: I'm a Techno lover</br>
 
 <br>
