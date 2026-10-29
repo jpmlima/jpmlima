@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=scala" width="45" alt="Scala" /><br><b>Scala</b>
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++" /><br><b>C++</b>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" /><br><b>Python</b>
@@ -27,7 +27,7 @@
       <img src="https://skillicons.dev/icons?i=rust" width="45" alt="Rust" /><br><b>Rust</b>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" alt="Solidity" /><br><b>Web3</b>
+      <img src="./profile/yocto.svg" width="45" alt="Yocto" /><br><b>Yocto</b>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker" /><br><b>Docker</b>
