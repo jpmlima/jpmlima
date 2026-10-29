@@ -3,11 +3,10 @@
 
 <h1 align="center"> 👋 Hey, I'm Lima 👋 </h1>
 
- 🔭 **Senior Software Developer | Eletronic and Telecomunication Engineering**</br>
- 🌱 I’m currently learning some ethical hacking skills</br>
- 👯 I’m looking to collaborate on interesting projects</br>
- 💬 Ask me about coding and eletronic music</br>
- ⚡ Fun fact: I'm a Techno lover</br>
+ **Senior Software Developer · Electronics and Telecommunications Engineering**</br>
+ Background in FPGA and embedded systems, now working on distributed ML training.</br>
+ Open to collaborating on interesting projects.</br>
+ Off the keyboard: electronic music, mostly techno.</br>
 <br><a href="https://www.buymeacoffee.com/jpmlima" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </br>
 <br>
